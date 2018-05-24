@@ -3,9 +3,9 @@
 
 Mahasiswa Ilmu Komputer
 
-*Desa Gapura Barat, Kecamatan Gapura*<br>
-*Kabupaten Sumenep Provinsi Jawa Timur*<br>
-*+62 852-5885-6126*<br>
+*Desa Gapura Barat, Kecamatan Gapura* <br>
+*Kabupaten Sumenep Provinsi Jawa Timur* <br>
+*+62 852-5885-6126* <br>
 *meianurmuslimah@gmail.com*
 
 ## Pendidikan
