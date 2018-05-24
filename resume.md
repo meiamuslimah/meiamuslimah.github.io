@@ -11,20 +11,20 @@ Mahasiswa Ilmu Komputer
 ## Pendidikan
 ### Institut Pertanian Bogor --- *Calon S.Komp*
 
-Agust 2017 - Apr 2021
+Agust 2017 -- Apr 2021
 Sedang menjalani studi
 
 ### SMA Negeri 1 Sumenep
-Jun 2014 - Mei 2017
+Jun 2014 -- Mei 2017
 
 ### SMP Negeri 1 Sumenep
-Jun 2011 - Mei 2014
+Jun 2011 -- Mei 2014
 
 ### SD Negeri 1 Gapura Barat
-Jun 2005 - Mei 2011
+Jun 2005 -- Mei 2011
 
 ### TK Raudatul Athfal
-Jun 2003 - Mei 2005
+Jun 2003 -- Mei 2005
 
 ## Pelatihan
 
